@@ -35,6 +35,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/phwilhelms/phwilhelms/output/snake.svg" alt="Snake animation" />
 
 ###
