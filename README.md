@@ -34,6 +34,14 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+## Visitas no pefil - Atividade
+
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/phwilhelms/count.svg" />  
+</p>
+
 ###
 
 <br clear="both">
